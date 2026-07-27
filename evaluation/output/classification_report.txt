@@ -1,0 +1,18 @@
+Model : YOLO11s
+Total Samples : 200
+
+Accuracy  : 0.8650
+Precision : 0.8822
+Recall    : 0.8650
+F1 Score  : 0.8695
+
+              precision    recall  f1-score   support
+
+         bus       0.31      0.44      0.36         9
+         car       0.85      0.97      0.91        71
+  motorcycle       1.00      1.00      1.00         3
+       truck       0.94      0.83      0.88       117
+
+    accuracy                           0.86       200
+   macro avg       0.78      0.81      0.79       200
+weighted avg       0.88      0.86      0.87       200

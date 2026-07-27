@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# Database
+*.db-shm
+*.db-wal
+
+# YOLO Outputs
+runs/
+
+# Model
+*.pt
+
+# Demo Videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# System
+.DS_Store
+Thumbs.db
+
+# Power BI Cache
+*.pbix.autosave
